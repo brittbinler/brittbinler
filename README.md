@@ -4,7 +4,6 @@
     <a href="https://linkedin.com/in/brittbinler" target="_blank">LinkedIn</a> .
     <a href="https://brittbinler.substack.com" target="_blank">Substack</a> .    
     <a href="https://x.com/brittbinler" target="_blank">X</a> .
-    <a href="https://github.com/britt-645" target="_blank">Github @ 645</a>
   </samp>
 </p>
 

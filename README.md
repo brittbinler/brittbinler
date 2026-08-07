@@ -10,7 +10,9 @@
 
 Hi, I'm `Britt`!
 
-I am **Head of AI at [Cactus](https://cactus.is)**, where I lead the firm's AI strategy, platform architecture, and AI governance practice. I partner with leading healthcare organizations and consumer health brands to integrate AI into patient experiences, internal tools, and enterprise platforms. My work focuses on building AI systems that are secure, explainable, and designed to adapt as technologies and organizational needs evolve.
+I am **Head of AI at [Cactus](https://cactus.is)**, where I lead the firm's AI strategy, products, platform architecture, and governance. I work with leading healthcare organizations and consumer health brands to architect AI systems across patient experiences, internal tools, and enterprise platforms.
+
+My work sits at the intersection of software architecture, product design, and organizational systems, with a focus on building AI infrastructure that is secure, legible, adaptable, and durable as models and organizational needs change.
 
 Before joining Cactus, I was a **Senior Software Engineer at [645 Ventures](https://645ventures.com)**, where I built **Voyager**, the firm's internal AI platform for sourcing and evaluating investments. My experience also includes real-time grid operations at **[Camus Energy](https://camusenergy.com)**, trust and safety infrastructure at **[Medium](https://medium.com)**, live event platforms at **[The New York Times](https://nytimes.com)** supporting coverage of the Olympics and State of the Union, and work on IBM Watson Analytics at **[IBM](https://ibm.com)**.
 

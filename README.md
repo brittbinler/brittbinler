@@ -10,8 +10,8 @@
 
 Hi, I'm `Britt`!
 
-I am a **Senior Software Engineer at [645 Ventures](https://645ventures.com)**, where I build **Voyager**, our in-house AI-powered platform for sourcing, researching, and managing deals. I also support the investment committee on software infrastructure, developer tools, and all things ML/AI.
+I am **Head of AI at [Cactus](https://cactus.is)**, where I lead the firm's AI strategy, platform architecture, and AI governance practice. I partner with leading healthcare organizations and consumer health brands to integrate AI into patient experiences, internal tools, and enterprise platforms. My work focuses on building AI systems that are secure, explainable, and designed to adapt as technologies and organizational needs evolve.
 
-Previously, I built live coverage platforms at **[The New York Times](https://nytimes.com)** for the Olympics and State of the Union, trust and safety infrastructure at **[Medium](https://medium.com)**, and real-time grid operations tech at **[Camus Energy](https://camusenergy.com)**. Before that, I worked on Watson Analytics at **[IBM](https://ibm.com)**.
+Before joining Cactus, I was a **Senior Software Engineer at [645 Ventures](https://645ventures.com)**, where I built **Voyager**, the firm's internal AI platform for sourcing and evaluating investments. My experience also includes real-time grid operations at **[Camus Energy](https://camusenergy.com)**, trust and safety infrastructure at **[Medium](https://medium.com)**, live event platforms at **[The New York Times](https://nytimes.com)** supporting coverage of the Olympics and State of the Union, and work on IBM Watson Analytics at **[IBM](https://ibm.com)**.
 
-I studied Fine Arts at the University of Pennsylvania (yes, really) and later studied Computer and Information Technology at the same institution.
+I studied Fine Arts at the University of Pennsylvania before returning to Penn to study Computer and Information Technology.

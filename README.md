@@ -2,7 +2,7 @@
   <samp>
     <a href="https://brittbinler.com" target="_blank">Me</a> .
     <a href="https://linkedin.com/in/brittbinler" target="_blank">LinkedIn</a> .
-    <a href="https://brittbinler.substack.com" target="_blank">Substack</a> .    
+    <!-- <a href="https://brittbinler.substack.com" target="_blank">Substack</a> . -->
     <a href="https://x.com/brittbinler" target="_blank">X</a>
   </samp>
 </p>
